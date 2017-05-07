@@ -1,0 +1,1 @@
+tensorboard --logdir=c:/Users/jcwle/Desktop/Machine-Learning-master/tflow/08-DeepNeuralNetwork/logs/xor_logs
